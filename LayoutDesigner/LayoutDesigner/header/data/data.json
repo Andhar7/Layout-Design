@@ -1,0 +1,219 @@
+
+[
+    {
+        "price": "2.300.000",
+        "category": "byt",
+        "city": "Kralupy nad Vltavou",
+        "ulice": "Premyslova",
+        "arrayImage": [ "p1", "p2", "p3", "p4", "p5", "p6" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 2+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 2+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 50.24120330,
+            "latitude": 14.31178860
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p3"
+    },
+    {
+        "price": "8.100.000",
+        "category": "byt",
+        "city": "Prague",
+        "ulice": "Hybesova",
+        "arrayImage": [ "p7", "p8", "p9", "p10", "p11", "p12" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 2+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 3+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 50.073658,
+            "latitude":  14.418540
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p12"
+    },
+    {
+        "price": "5.100.000",
+        "category": "byt",
+        "city": "Brno",
+        "ulice": "Matous",
+        "arrayImage": [ "p13", "p14", "p15", "p16", "p17", "p18" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 1+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 5+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 49.195061,
+            "latitude": 16.606836
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p18"
+    },
+    {
+        "price": "3.800.000",
+        "category": "byt",
+        "city": "Ostrava",
+        "ulice": "Ruska",
+        "arrayImage": ["p19", "p20", "p21", "p22", "p23", "p24"],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 7+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 4+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 49.820923,
+            "latitude": 18.262524
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p24"
+    },
+    {
+        "price": "8.800.000",
+        "category": "byt",
+        "city": "Plzen",
+        "ulice": "Vinohradska",
+        "arrayImage": [ "p5", "p9", "p2", "p8", "p21", "p16" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 3+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 9+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 49.445089,
+            "latitude": 13.223932
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p5"
+    },
+    {
+        "price": "6.800.000",
+        "category": "byt",
+        "city": "Teplice",
+        "ulice": "Matouseva",
+        "arrayImage": [ "p2", "p4", "p2", "p6", "p19", "p3" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 3+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 5+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 50.382544,
+            "latitude": 13.492824
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p8"
+    },
+    {
+        "price": "9.800.000",
+        "category": "byt",
+        "city": "Zlin",
+        "ulice": "Matouseva",
+        "arrayImage": [ "p2", "p4", "p12", "p6", "p9", "p13" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 7+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 2+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 49.22645,
+            "latitude": 17.67065
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p24"
+    },
+    {
+        "price": "9.800.000",
+        "category": "byt",
+        "city": "Beroun",
+        "ulice": "Bistrova",
+        "arrayImage": [ "p2", "p15", "p5", "p8", "p19", "p3" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 1+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 4+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 49.967205,
+            "latitude": 14.086284
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p21"
+    },
+    {
+        "price": "4.200.000",
+        "category": "byt",
+        "city": "Liberec",
+        "ulice": "Cerny Most",
+        "arrayImage": [ "p22", "p23", "p2", "p6", "p20", "p13" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 3+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 9+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 50.76711,
+            "latitude": 15.05619
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p4"
+    },
+    {
+        "price": "10.900.000",
+        "category": "byt",
+        "city": "Svojetice",
+        "ulice": "Molotova",
+        "arrayImage": [ "p7", "p13", "p1", "p3", "p15", "p18" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 3+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 7+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 14.7333,
+            "latitude": 49.9667
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p14"
+    },
+    {
+        "price": "12.900.000",
+        "category": "byt",
+        "city": "Otvovice",
+        "ulice": "Vysehrad",
+        "arrayImage": [ "p4", "b8", "p14", "p13", "5", "p23" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 6+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 6+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 50.2167,
+            "latitude": 14.2667
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p21"
+    },
+    {
+        "price": "13.900.000",
+        "category": "byt",
+        "city": "Karlovy Vary",
+        "ulice": "Vysehrad",
+        "arrayImage": [ "p22", "p23", "p24", "p21", "p13", "p12" ],
+        "arrayShortPodrobnosti": [ "Velikost bytu: 4+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova"],
+        "arrayPodrobnosti": [ "Velikost bytu: 2+kk", "Podlahova plocha: 71 m2", "Typ budovy: skeletova", "Pocet NP: 5", "Forma vlastnictvi: osobni", "Patro: 1.patro", "Plocha bytu: 71m2", "Topeni: Lokalni-plynove","Vytah: ano", "Parkovane: 1","Stav objektu: novostavba"],
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 50.231853,
+            "latitude": 12.871962
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "p12"
+    }
+]
